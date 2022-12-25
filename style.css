@@ -180,4 +180,8 @@ h2 {
     main {
         padding: 3em;
     }
+
+    body {
+        background-image: url("images/pattern-background-mobile.svg");
+    }
 }
