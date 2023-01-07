@@ -41,6 +41,8 @@ body {
     background-color: var(--primary-500);
     background-image: url("images/pattern-background-desktop.svg");
     background-repeat: no-repeat;
+    background-position-y: -200%;
+    background-size: contain;
 
     height: 100vh;
 
